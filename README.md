@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.coms-019/fuck-mgr/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano">
+ <img src="https://github.coms-019/fuck-mgr/static/image/ClickBefore.png" width="100" height="100" alt="EatKano">
 </p>
 <div align="center">
 
