@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# fuck-tight-mgr
 
 _163 毛虎小游戏 🗑️_
 
