@@ -15,6 +15,6 @@ _163 毛虎小游戏 🗑️_
 在60秒内淦爆米孤儿
 
 ## 关于游戏
-本项目forked 自 [kifuan/EatSenpai](https://github.com/kifuan/EatSenpai)
+本项目forked 自 [kifuan/EatSenpai（原版修改版）](https://github.com/kifuan/EatSenpai)
 
 
