@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# fuck-tight-mgr
+# love-tight-mgr
 
 _163 毛虎小游戏 🗑️_
 
